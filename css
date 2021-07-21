@@ -1,0 +1,19 @@
+.caption-center {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+}
+
+.carousel-title {
+  font-size: 5rem;
+  text-shadow: 1px 1px 2px black;
+}
+
+.carousel-text {
+  font-size: 2rem;
+  text-shadow: 1px 1px 2px black;
+}
+
+/* .white-box {
+  border: 2px solid white;
+} */
